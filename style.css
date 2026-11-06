@@ -15,8 +15,13 @@ header {
 
 /* NAVIGATION */
 nav {
-    background-color: #8eb6d8;
+    background-color: #234567;
     padding: 10px;
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
 }
 
 /* MAIN */
